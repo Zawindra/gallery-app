@@ -57,7 +57,7 @@ const baseImages = [
     title: "Des Dunes",
   },
   {
-    src: "src/assets/1.jpg",
+    src: "./public/1.jpg",
     title: "Jochochise",
   },
   {
