@@ -57,8 +57,8 @@ const baseImages = [
     title: "Des Dunes",
   },
   {
-    src: "./public/1.jpg",
-    title: "Jochochise",
+    src: "https://images.pexels.com/photos/10338626/pexels-photo-10338626.jpeg",
+    title: "Neda Kekil",
   },
   {
     src: "https://images.pexels.com/photos/31758904/pexels-photo-31758904.jpeg",
